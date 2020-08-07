@@ -22,18 +22,32 @@
 
 ### Correlação PreçoxReviews para os aplicativos com mais de 1.000.000 downloads
 
-![Project Image](images/correlacao-1000000.png)
+![Project Correlation](images/correlacao-1000000.png)
 
 ### Correlação PreçoxReviews para os aplicativos com mais de 100.000 downloads
 
-![Project Image](images/correlacao-100000.png)
+![Project Correlation](images/correlacao-100000.png)
 
 ### Correlação PreçoxReviews para os aplicativos com mais de 10.000 downloads
 
-![Project Image](images/correlacao-10000.png)
+![Project Correlation](images/correlacao-10000.png)
 
 
 ## Arquivo do Projeto
 
 ### [Orange File](orange/google-playstore-preparation.ows)
 
+
+# Projeto de Composição de Componentes para Recomendação
+
+![Project Interfaces](images/uml-interfaces-1.png)
+
+# Projeto de Composição de Componentes para Pedido
+
+## Diagrama de Componentes
+
+![Project Interfaces](images/uml-interfaces-2.png)
+
+## Diagrama de Interfaces
+
+![Project Interfaces](images/uml-interfaces-3.png)
