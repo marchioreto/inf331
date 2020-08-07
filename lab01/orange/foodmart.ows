@@ -234,8 +234,8 @@ WAsAAABJcmlzLXNldG9zYXI8AwAAWA8AAABJcmlzLXZlcnNpY29sb3JyPQMAAFgOAAAASXJpcy12
 aXJnaW5pY2FyPgMAAGWGcj8DAACFckADAABq3wEAAF1yQQMAAHViZXUu
 </properties>
 		<properties format="pickle" node_id="1">gAN9cQAoWAsAAABhdXRvX2NvbW1pdHEBiFgSAAAAY29udHJvbEFyZWFWaXNpYmxlcQKIWBMAAABz
-YXZlZFdpZGdldEdlb21ldHJ5cQNDQgHZ0MsAAwAAAAABdQAAABsAAAPMAAACkAAAAXUAAAA5AAAD
-zAAAApAAAAAAAAAAAAVWAAABdQAAADkAAAPMAAACkHEEWBIAAAB1c2VfaW5wdXRfZmVhdHVyZXNx
+YXZlZFdpZGdldEdlb21ldHJ5cQNDQgHZ0MsAAwAAAAABhQAAAD8AAAPcAAACtAAAAYUAAABdAAAD
+3AAAArQAAAAAAAAAAAVWAAABhQAAAF0AAAPcAAACtHEEWBIAAAB1c2VfaW5wdXRfZmVhdHVyZXNx
 BYlYCwAAAF9fdmVyc2lvbl9fcQZLAVgQAAAAY29udGV4dF9zZXR0aW5nc3EHXXEIKGNvcmFuZ2V3
 aWRnZXQuc2V0dGluZ3MKQ29udGV4dApxCSmBcQp9cQsoWAYAAAB2YWx1ZXNxDH1xDShYEQAAAGRv
 bWFpbl9yb2xlX2hpbnRzcQ59cQ8oWAQAAABNaWxrcRBLAYZxEVgJAAAAYXZhaWxhYmxlcRJLAIZx
@@ -820,9 +820,9 @@ am8IAABLAmpyCAAASwJqdQgAAEsCangIAABLAmp7CAAASwJqfggAAEsCaoEIAABLAmqECAAASwJq
 hwgAAEsCaooIAABLAmqNCAAASwJqkAgAAEsCapMIAABLAmqWCAAASwJqmQgAAEsCapwIAABLAnVq
 RwEAAH1ypAgAAHViZXUu
 </properties>
-		<properties format="literal" node_id="2">{'autoFind': False, 'autoSend': True, 'classify': False, 'controlAreaVisible': True, 'filterAntecedentMax': 998, 'filterAntecedentMin': 1, 'filterConsequentMax': 1000, 'filterConsequentMin': 1, 'filterKeywordsAntecedent': '', 'filterKeywordsConsequent': '', 'filterSearch': True, 'maxRules': 10000, 'minConfidence': 26, 'minSupport': 1, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x01u\x00\x00\x00p\x00\x00\x03\xcc\x00\x00\x03A\x00\x00\x01u\x00\x00\x00p\x00\x00\x03\xcc\x00\x00\x03A\x00\x00\x00\x00\x02\x00\x00\x00\x05V\x00\x00\x01u\x00\x00\x00p\x00\x00\x03\xcc\x00\x00\x03A', '__version__': 1}</properties>
+		<properties format="literal" node_id="2">{'autoFind': False, 'autoSend': True, 'classify': False, 'controlAreaVisible': True, 'filterAntecedentMax': 998, 'filterAntecedentMin': 1, 'filterConsequentMax': 1000, 'filterConsequentMin': 1, 'filterKeywordsAntecedent': '', 'filterKeywordsConsequent': '', 'filterSearch': True, 'maxRules': 10000, 'minConfidence': 26, 'minSupport': 1, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x01u\x00\x00\x00R\x00\x00\x03\xcc\x00\x00\x03A\x00\x00\x01u\x00\x00\x00p\x00\x00\x03\xcc\x00\x00\x03A\x00\x00\x00\x00\x02\x00\x00\x00\x05V\x00\x00\x01u\x00\x00\x00p\x00\x00\x03\xcc\x00\x00\x03A', '__version__': 1}</properties>
 		<properties format="literal" node_id="3">{'auto_commit': True, 'color_by_class': True, 'controlAreaVisible': True, 'dist_color_RGB': (220, 220, 220, 255), 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x01\r\x00\x00\x00[\x00\x00\x05\x0c\x00\x00\x02d\x00\x00\x01\r\x00\x00\x00y\x00\x00\x05\x0c\x00\x00\x02d\x00\x00\x00\x00\x00\x00\x00\x00\x05V\x00\x00\x01\r\x00\x00\x00y\x00\x00\x05\x0c\x00\x00\x02d', 'select_rows': True, 'selected_cols': [], 'selected_rows': [], 'show_attribute_labels': True, 'show_distributions': False, '__version__': 1}</properties>
-		<properties format="literal" node_id="4">{'autoFind': False, 'autoSend': True, 'controlAreaVisible': True, 'filterKeywords': '', 'filterMaxItems': 10000, 'filterMinItems': 1, 'filterSearch': True, 'maxItemsets': 10000, 'minSupport': 0.1, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x01B\x00\x00\x00|\x00\x00\x04t\x00\x00\x02\x89\x00\x00\x01B\x00\x00\x00|\x00\x00\x04t\x00\x00\x02\x89\x00\x00\x00\x00\x00\x00\x00\x00\x05V\x00\x00\x01B\x00\x00\x00|\x00\x00\x04t\x00\x00\x02\x89', '__version__': 1}</properties>
+		<properties format="literal" node_id="4">{'autoFind': False, 'autoSend': True, 'controlAreaVisible': True, 'filterKeywords': '', 'filterMaxItems': 10000, 'filterMinItems': 1, 'filterSearch': True, 'maxItemsets': 10000, 'minSupport': 0.1, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x01F\x00\x00\x00o\x00\x00\x04x\x00\x00\x02\x9a\x00\x00\x01F\x00\x00\x00\x8d\x00\x00\x04x\x00\x00\x02\x9a\x00\x00\x00\x00\x00\x00\x00\x00\x05V\x00\x00\x01F\x00\x00\x00\x8d\x00\x00\x04x\x00\x00\x02\x9a', '__version__': 1}</properties>
 	</node_properties>
 	<session_state>
 		<window_groups />
