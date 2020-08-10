@@ -2,3 +2,7 @@
 
 ### Aluno:
 ### **Paulo Sérgio Marchioreto**
+
+[LAB 01](lab01)
+
+[LAB 02](lab02)
