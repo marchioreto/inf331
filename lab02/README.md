@@ -1,4 +1,4 @@
-# Modelo para Apresentação do Lab02 - Data Flow & Mensagens
+# Lab02 - Data Flow & Mensagens
 
 ## Tarefa sobre catálogo de componentes
 
