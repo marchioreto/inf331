@@ -18,3 +18,9 @@
 ![Bloco 3 Image](images/bloco3.png)
 
 ### [App File (.aia)](app/INF331.aia)
+
+## Tarefa 4
+
+### Equipe 8
+
+https://github.com/inf331equipe08/marketplace
